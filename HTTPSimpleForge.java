@@ -1,5 +1,8 @@
 import java.io.*;
 import java.net.*;
+
+// code for laboratory 'xsite' 
+
 public class HTTPSimpleForge {
 public static void main(String[] args) throws IOException {
 try {
